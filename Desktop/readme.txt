@@ -1,3 +1,4 @@
-creating a new branch is quick & simple.
+edit on dev branch.
+creatig a new branch is quick & simple.
 creating a new branch is quick and simple.
 
